@@ -8,7 +8,7 @@ const defaultItems = [
     name: "Item B",
   },
   {
-    name: "Item C",
+    name: "Item D",
   },
 ];
 
